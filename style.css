@@ -72,15 +72,11 @@ p {
   color: white;
 }
 
-.brand h1 {
-  color: white;
-  font-size: 3rem;
-  text-transform: uppercase;
+.brand img {
+  height: 6rem;
+  width: 100%;
 }
 
-.brand h1 span {
-  color: crimson;
-}
 
 /* Header Section */
 #header {
