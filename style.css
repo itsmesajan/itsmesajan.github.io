@@ -302,14 +302,15 @@ p {
 /* Service section */
 #service .service {
   flex-direction: column;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
   margin: 0 auto;
   padding: 100px 0;
   max-width: 1500px;
 }
 
 #service .service-top {
-  max-width: 500px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -364,7 +365,8 @@ p {
 
 #service .service-item p {
   color: white;
-  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* ENd of service section */
