@@ -448,7 +448,7 @@ p {
 }
 
 #project .project-img img {
-  animation: 0.3s ease transform;
+  transition: 0.5s ease-in-out;
 }
 
 #project .project-item:hover .project-img img {
