@@ -13,8 +13,9 @@ const skills = [
 
   // Backend
   { name: "Node.js", level: 60, category: "Backend" },
-  { name: "Express", level: 65, category: "Backend" },
+  { name: "Express", level: 60, category: "Backend" },
   { name: "php", level: 70, category: "Backend" },
+  { name: "Laravel", level: 60, category: "Backend" },
 
   // Database
   { name: "MongoDB", level: 70, category: "Database" },
@@ -22,9 +23,11 @@ const skills = [
 
   // Tools
   { name: "Git/GitHub", level: 80, category: "Tools" },
-  { name: "Figma", level: 80, category: "Tools" },
-  { name: "VS Code", level: 95, category: "Tools" },
   { name: "Adobe Suites", level: 95, category: "Tools" },
+  { name: "Davinci Resolve", level: 70, category: "Tools" },
+  { name: "Figma", level: 80, category: "Tools" },
+  { name: "Canva", level: 90, category: "Tools" },
+  { name: "VS Code", level: 95, category: "Tools" },
   // { name: 'Docker', level: 60, category: 'Tools' },
 
   // Core Cs
